@@ -1,0 +1,26 @@
+Non seniors in an increasing order:
+Alfred 31-3-1980
+Leslie 27-4-1990
+Roger 11-12-1995
+Brian 15-7-2002
+Linda 1-1-2003
+
+Number of seniors: 4
+
+Seniors in an increasing order:
+Sam 24-2-1940
+Maria 9-5-1941
+Melissa 25-7-1945
+Roberto 29-6-1950
+
+All participants in an increasing order:
+Sam 24-2-1940
+Maria 9-5-1941
+Melissa 25-7-1945
+Roberto 29-6-1950
+Alfred 31-3-1980
+Leslie 27-4-1990
+Roger 11-12-1995
+Brian 15-7-2002
+Linda 1-1-2003
+Thomas 20-7-2004
